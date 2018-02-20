@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\contracts\\test",
+    "\\contracts\\test\\client",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\editor",
+    "\\src\\app\\execution",
+    "\\src\\app\\panels"
+  ],
+  "SelectedNode": "\\src\\app\\execution\\eventsDecoder.js",
+  "PreviewInSolutionExplorer": false
+}
